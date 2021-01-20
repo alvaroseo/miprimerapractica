@@ -1,1 +1,1 @@
-Este es el archivo readme de mi primera práctica JEJE
+Este es el archivo readme actualizado de mi primera práctica  JEJE
